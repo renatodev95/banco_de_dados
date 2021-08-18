@@ -1,2 +1,2 @@
 # banco_de_dados
- Introdução à Banco de Dados
+ Introdução ao Banco de Dados Relacional e ao Modelo E/R
